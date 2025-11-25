@@ -1,8 +1,8 @@
 Привет! Я скретчер, и на этот сайт я планирую выкладывать мои проекты и проекты которые мне нравятся.
 <iframe src="https://scratch.mit.edu/projects/1238273209/embed" 
         allowtransparency="true" 
-        width="485" 
-        height="402" 
+        width="1000" 
+        height="1000" 
         frameborder="0" 
         scrolling="no" 
         allowfullscreen></iframe>
